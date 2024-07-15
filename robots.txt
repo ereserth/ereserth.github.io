@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ereserth.github.io/sitemap
+Sitemap: https://ereserth.github.io/app/sitemap
+Sitemap: https://ereserth.github.io/assets/sitemap
+Sitemap: https://ereserth.github.io/css/sitemap
+Sitemap: https://ereserth.github.io/includes/sitemap
+Sitemap: https://ereserth.github.io/item/sitemap
+Sitemap: https://ereserth.github.io/src/sitemap
